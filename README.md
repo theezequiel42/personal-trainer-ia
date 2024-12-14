@@ -98,3 +98,15 @@ Selecione o estilo de treino que mais combina com seus objetivos e preferências
 
 ## 🎯 Prompt de Resposta Proposto
 
+"Com base nas informações fornecidas:
+
+Biotipo corporal: [Digite aqui].
+Dias disponíveis para treino: [Digite aqui].
+Estilo de treino preferido: [Digite aqui].
+Por favor, crie um plano de treino personalizado que contemple essas variáveis e inclua:
+
+Tipos de exercícios.
+Estrutura de dias da semana.
+Sugestões de aquecimento e recuperação."
+
+
